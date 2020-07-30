@@ -1,2 +1,2 @@
-# themes
-Themes for kishu.duckdns.org
+# Themes
+Themes for *.kishu.duckdns.org
