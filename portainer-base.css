@@ -358,15 +358,15 @@
         background:transparent !important;
     }
     .widget .widget-body table .ng-scope tr {
-        background: rgba(0, 0, 0, .35) !important;
-        background-color: rgba(0, 0, 0, .35) !important;
+        background: rgba(0, 0, 0, .55) !important;
+        background-color: rgba(0, 0, 0, .55) !important;
     }
     .widget .widget-body table thead {
-        background-color:rgba(0, 0, 0, .35) !important;
-        background:rgba(0, 0, 0, .35) !important;
+        background-color:rgba(0, 0, 0, .55) !important;
+        background:rgba(0, 0, 0, .55) !important;
     }
     .widget .widget-body table tbody  .ng-isolate-scope  div {
-        background-color: rgba(0, 0, 0, .35) !important;
+        background-color: rgba(0, 0, 0, .55) !important;
         background: rgba(0, 0, 0, 0) !important;
     }
     .widget .widget-body table tbody tr:hover {
@@ -374,7 +374,7 @@
         background:rgba(0, 0, 0, 0) !important;
     }
     .widget .widget-body table thead tr:hover {
-        background-color:rgba(0, 0, 0, .55) !important;
-        background:rgba(0, 0, 0, .55) !important;
+        background-color:rgba(0, 0, 0, .95) !important;
+        background:rgba(0, 0, 0, .95) !important;
     }
     
