@@ -46,7 +46,7 @@
       color: #f44336;
   }
   .fa.red-icon {
-      color: #f44336;
+      color: #ffffff;
   }
   .text-muted {
       color: #bbb;
@@ -233,7 +233,7 @@
   }
   .input-group-addon {
       color: #eee;
-      background-color: rgba(255, 255, 255, 0.15);
+      background-color: rgb(96, 125, 139);
       border: 1px solid transparent;
   }
   /* DROPDOWN MENU */
