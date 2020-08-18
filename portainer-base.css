@@ -36,10 +36,10 @@
     color: #cccccc !important;
   }
   a, ul.sidebar .sidebar-list .sidebar-sublist a {
-      color: #ccc;
+      color: #ffffff;
   }
   a:focus, a:hover {
-      color: #bbb;
+      color: #ccc;
       text-decoration: none;
   }
   .text-danger {
