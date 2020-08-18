@@ -1,7 +1,7 @@
 @import url(https://krishnasai369.github.io/themes/portainer-base.css);
 :root {
-  --main-bg-color:  radial-gradient( ellipse at center,  rgba(77, 77, 77,1) 0%, rgba(38, 38, 38,1) 100.2% ) center center/cover no-repeat fixed;
-  --modal-bg-color: radial-gradient( ellipse at top,  rgba(77, 77, 77,1) 0%, rgba(38, 38, 38,1) 100.2% ) center center/cover no-repeat fixed;
+  --main-bg-color:  radial-gradient( ellipse at center,  rgba(102, 102, 102,1) 0%, rgba(38, 38, 38,1) 100.2% ) center center/cover no-repeat fixed;
+  --modal-bg-color: radial-gradient( ellipse at top,  rgba(102, 102, 102,1) 0%, rgba(38, 38, 38,1) 100.2% ) center center/cover no-repeat fixed;
 
   --button-color: #607D8B;
   --button-color-hover: #81a6b7;
