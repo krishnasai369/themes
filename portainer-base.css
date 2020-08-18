@@ -33,7 +33,7 @@
     
   body {
     background: var(--main-bg-color);
-    color: #cccccc !important;
+    color: #d8d8d8 !important;
   }
   a, ul.sidebar .sidebar-list .sidebar-sublist a {
       color: #ffffff;
@@ -55,7 +55,7 @@
       color: #ccc;
   }
   ul.sidebar .sidebar-list a {
-      color: #ccc;
+      color: #ffffff;
   }
   /* NEWS */
   .motd-body {
