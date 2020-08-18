@@ -27,7 +27,7 @@ div.meterText:empty:before {
 }
 #startStopBtn {
     color: #ffffff;
-    background: #00ff00;
+    background: #239e23bf;
     border: 0.15em solid var(--button-color);
 }
 #startStopBtn:hover {
