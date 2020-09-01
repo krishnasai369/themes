@@ -367,7 +367,7 @@
     }
     .widget .widget-body table tbody  .ng-isolate-scope  div {
         background-color: rgba(0, 0, 0, .45) !important;
-        background: rgba(0, 0, 0, 0) !important;
+        background: rgba(66, 66, 66, 0.95) !important;
     }
     .widget .widget-body table tbody tr:hover {
         background-color:#0000 !important;
